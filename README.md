@@ -1,5 +1,7 @@
 # CoreMLSegmentation
 
+This is a replication of the PyTorch DeepLabV3 [demo](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/) in Swift UI and Core ML.
+
 <p align="center">
   <img width="320" alt="" src="https://user-images.githubusercontent.com/2617118/145712166-1c78846d-b364-46ed-9ccd-5dfcc8430779.png">
 </p>
